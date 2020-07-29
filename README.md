@@ -5,8 +5,8 @@ My name's Felipe and I'm a Systems Analysis and Development student, always pass
 
 Would you like to find me?
 
-[![Blog Badge](https://felipecard.github.io/site_felipe_cardoso/)
-[![Youtube Badge](https://www.youtube.com/channel/UCVICskqDBiy-JGH_diJN7cg/videos?view_as=subscriber)
-[![Linkedin Badge](https://www.linkedin.com/in/felipe-cardoso-70bb5732/)
+[![Blog Badge](https://felipecard.github.io/site_felipe_cardoso/)]
+[![Youtube Badge](https://www.youtube.com/channel/UCVICskqDBiy-JGH_diJN7cg/videos?view_as=subscriber)]
+[![Linkedin Badge](https://www.linkedin.com/in/felipe-cardoso-70bb5732/)]
 
 
