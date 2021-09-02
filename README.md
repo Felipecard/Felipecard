@@ -24,16 +24,9 @@ My name's Felipe and I'm a Systems Analysis and Development student  (📚), I'v
     <a href="https://www.linkedin.com/in/felipe-cardoso-70bb5732/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCVICskqDBiy-JGH_diJN7cg/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipecard4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://felipecard.github.io/site_felipe_cardoso/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
- 
-  
- 
- 
- 
+  <a href="https://felipecard.github.io/site_felipe_cardoso/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank">     </a>
 </div>
 
-[![Blog Badge](https://img.shields.io/badge/Site-felipecardoso-black)](https://felipecard.github.io/site_felipe_cardoso/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/felipecardoso)](https://www.youtube.com/channel/UCVICskqDBiy-JGH_diJN7cg/videos?view_as=subscriber)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecardoso)](https://www.linkedin.com/in/felipe-cardoso-70bb5732/)
+
 
 
