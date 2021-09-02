@@ -28,7 +28,7 @@ My name's Felipe and I'm a Systems Analysis and Development student  (📚), I'v
  
   <a href="https://www.youtube.com/channel/UCVICskqDBiy-JGH_diJN7cg/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-  <a href="https://felipecard.github.io/site_felipe_cardoso/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg target="_blank"></a>
+  <a href="https://felipecard.github.io/site_felipe_cardoso/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg></a>
  
 </div>
 
