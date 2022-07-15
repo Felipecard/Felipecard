@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name's Felipe and I'm a Systems Analysis and Development student  (📚), I've always been passionate about technology. I'm a dedicated professional and attentive to new technologies ✨✨✨
+My name's Felipe and I'm a Systems Analysis and Development graduate (📚), I've always been passionate about technology. I'm a dedicated professional and attentive to new technologies ✨✨✨
 
 <div>
   <a href="https://github.com/felipecard">
